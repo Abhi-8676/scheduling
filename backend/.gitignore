@@ -9,3 +9,9 @@
 /coverage
 
 # production
+uploads/
+tmp/
+*.pdf
+*.mov
+*.png
+*.webm
